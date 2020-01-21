@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\Projekty\PRG1_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projekty\PRG1_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,13): warning C4101: 'j': unreferenced local variable
+D:\Projekty\PRG1_1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,7): warning C4101: 'n': unreferenced local variable
+  ConsoleApplication1.vcxproj -> D:\Projekty\PRG1_1\ConsoleApplication1\Debug\ConsoleApplication1.exe
